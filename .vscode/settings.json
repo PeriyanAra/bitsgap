@@ -1,0 +1,18 @@
+{
+    "dart.flutterSdkPath": ".fvm/flutter_sdk",
+    // Remove .fvm files from search
+    "search.exclude": {
+        "**/.fvm": true
+    },
+    // Remove from file watching
+    "files.watcherExclude": {
+        "**/.fvm": true
+    },
+    "dart.runPubGetOnPubspecChanges": "never",
+    "dart.lineLength": 100,
+    "cSpell.words": [
+        "bitsgap",
+        "catalina",
+        "paynes"
+    ],
+}
