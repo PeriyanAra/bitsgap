@@ -18,7 +18,7 @@ class AppRouter extends _$AppRouter {
             AutoRoute(
               initial: true,
               path: RoutePaths.auth,
-              page: AuthAnimatedRoute.page,
+              page: AuthRoute.page,
             ),
           ],
         ),
